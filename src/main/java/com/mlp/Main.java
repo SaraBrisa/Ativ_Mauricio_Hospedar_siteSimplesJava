@@ -14,6 +14,7 @@ import java.net.URLConnection;
  * Servidor web simples e sem dependências para o site "Trio Mágico de Equestria".
  * Serve os arquivos estáticos de src/main/resources/static (empacotados no jar).
  * Não usa banco de dados nem frameworks externos.
+ * teste azure
  */
 public class Main {
 
