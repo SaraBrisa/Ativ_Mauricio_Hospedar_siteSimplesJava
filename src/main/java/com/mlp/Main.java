@@ -27,7 +27,7 @@ public class Main {
         server.setExecutor(null); // executor padrão
         server.start();
 
-        System.out.println("Trio Mágico de Equestria rodando em http://localhost:" + port);
+        System.out.println("Trio Mágico de Equestria squad girls rodando em http://localhost:" + port);
     }
 
     private static int resolvePort() {
